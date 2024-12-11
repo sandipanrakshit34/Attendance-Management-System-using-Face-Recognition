@@ -43,10 +43,6 @@ pip install -r requirements.txt
 ### 3. Set Up MySQL Database
 - Create a MySQL database to store attendance records.
 - Update the database connection details in the code as needed.
-
-### 4. Download Haarcascade
-Download the Haarcascade XML file for face detection from the [OpenCV GitHub repository](https://github.com/opencv/opencv) and place it in the project directory.
-
 ---
 
 ## Usage
@@ -94,9 +90,6 @@ Attendance Management System using Face Recognition/
 Contributions are welcome! If you have suggestions for improvements or additional features, feel free to fork the repository and submit a pull request.
 
 ---
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
