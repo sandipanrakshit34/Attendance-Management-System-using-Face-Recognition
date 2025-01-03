@@ -1,5 +1,6 @@
 
 # Attendance Management System using Face Recognition
+<center> <img src = "attendence_manage.png" width = 100%>
 
 ## Overview
 The **Attendance Management System** is a Python-based application that leverages face recognition technology to automate the process of tracking student attendance. This project uses OpenCV for face detection and recognition, along with a user-friendly graphical interface built with Tkinter. It includes features for capturing images for training, real-time face recognition, and managing attendance records efficiently.
@@ -90,6 +91,11 @@ Attendance Management System using Face Recognition/
 Contributions are welcome! If you have suggestions for improvements or additional features, feel free to fork the repository and submit a pull request.
 
 ---
+## Author
+
+- [@sandipanrakshit34](https://github.com/sandipanrakshit34)
+
+##
 
 ---
 
